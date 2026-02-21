@@ -1,6 +1,6 @@
-package com.skyscanner;
+package com.hoenscanner;
 
-import io.dropwizard.core.Configuration;
+import io.dropwizard.Configuration;
 
 public class HoenScannerConfiguration extends Configuration {
 
